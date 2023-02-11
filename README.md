@@ -35,7 +35,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nvhitori&theme=midnight-purple&show_icons=true) 
 ![XHitor1](https://github-readme-stats.vercel.app/api/top-langs/?username=nvhitori&hide=css,html&layout=compact&theme=midnight-purple)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvhitori&theme=monokai)
+
 
 ### Spotify Playing 🎧
 
