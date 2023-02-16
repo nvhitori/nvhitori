@@ -1,4 +1,5 @@
 <h1 align="center">
+  <img width="45" src="./images/anime.gif" alt="nvhitori"/>
   Welcome to My Github!
   <img width="45" src="./images/anime1.webp" alt="nvhitori"/>
 </h1>
